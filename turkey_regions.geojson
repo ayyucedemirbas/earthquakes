@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marmara"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [28.0, 40.5],
+            [29.5, 40.5],
+            [29.5, 42.0],
+            [28.0, 42.0],
+            [28.0, 40.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aegean"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [26.0, 37.0],
+            [29.0, 37.0],
+            [29.0, 40.0],
+            [26.0, 40.0],
+            [26.0, 37.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mediterranean"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [30.0, 35.0],
+            [34.0, 35.0],
+            [34.0, 38.0],
+            [30.0, 38.0],
+            [30.0, 35.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Anatolia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [32.0, 38.0],
+            [36.0, 38.0],
+            [36.0, 41.0],
+            [32.0, 41.0],
+            [32.0, 38.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Sea"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [32.0, 40.0],
+            [42.0, 40.0],
+            [42.0, 42.0],
+            [32.0, 42.0],
+            [32.0, 40.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Anatolia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [38.0, 37.0],
+            [43.0, 37.0],
+            [43.0, 42.0],
+            [38.0, 42.0],
+            [38.0, 37.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southeastern Anatolia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [35.0, 35.0],
+            [42.0, 35.0],
+            [42.0, 37.0],
+            [35.0, 37.0],
+            [35.0, 35.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
